@@ -1,6 +1,6 @@
 Hi, I'm Yhaya Hazazi. 
-I'm IT profissionam aspiring to be a good programmer, I realy enjoy coding  and problem solving.
-Sometimes the process of learning in general and especially learning software development can be frustrating. 
+I'm IT profissionam aspiring to be a good programmer, I realy enjoy coding  and problem solving. Though
+sometimes the process of learning in general and especially learning software development can be frustrating. 
 My advice to those who want to learn software development is  
 # be Persistent
 
